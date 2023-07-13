@@ -1,5 +1,6 @@
 # Face App
-Face App is a Python-based application that uses TensorFlow for machine learning. This app can detect your face, track your iris, and try to predict your age and gender (although not very accurate for the last two).
+Face App is a Python-based application that uses TensorFlow for machine learning. This app can detect your face, track your iris, and try to predict your age and gender (although not very accurate for the last two). The
+demonstration for this program can be found here! [Click me for the video!](https://youtu.be/zvNkCcAA7Dw)
 
 ## Things I Used: 
 - OpenCV: using my webcam and allowing me to implement my models
