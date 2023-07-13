@@ -1,0 +1,6 @@
+models/
+camera/
+aug_data/
+aug_data.zip
+data/
+test.py
